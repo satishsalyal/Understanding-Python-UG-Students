@@ -8,4 +8,4 @@
 | **CO Mapping**         | CO1–CO4 mapped to all 4 units                                                                                                                                                                                              |
 | **Exam Pattern**       | Section A (4×3 marks compulsory) + Section B (4×12 marks choice) = 60 marks theory                                                                                                                                         |
 | **Practice Questions** | 8 questions per unit (32 total) for exam preparation                                                                                                                                                                       |
-| **Suggested Readings** | 3 textbooks + 6 online resources with links                                                                                                                                                                                |
+                                                                                                                                                                                |
